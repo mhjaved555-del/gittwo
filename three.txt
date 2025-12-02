@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>javed omar</title>
+</head>
+<body>
+<table>
+<tr>
+<th>name</th>
+<th>class</th>
+<th>age</th>
+</tr>
+<tr>
+<td>javed</td>
+<td>alim</td>
+<td>19</td>
+</tr>
+<tr>
+<td>aosaf</td>
+<td>inter</td>
+<td>18</td>
+</tr>
+</body>
+</html>
